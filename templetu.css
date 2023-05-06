@@ -60,3 +60,22 @@
     padding: 0.5rem 1.4rem;
 }
 
+.hero{
+    background-color: rgb(109, 151, 115);
+    color:white;
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+    font-size: 22px;
+}
+
+.mero{
+    background-color: rgb(109, 151, 115);
+    color:white;
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+    flex-basis: 500px;
+    font-size: 22px;
+}
+
